@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">p2p1eijd</string>
+    <string name="TITULO">MANEJO DE RADIOS DE SELECCION</string>
+    <string name="CARRERA">SELECCIONA TU CARRERA</string>
+    <string name="tsistemas">ISC</string>
+    <string name="ttics">ITIC\'S</string>
+    <string name="tambiental">ING.AMBIENTAL</string>
+    <string name="tgastronomia">LIC.GASTRONOMIA</string>
+    <string name="btmensaje">MENSAJE</string>
+    <string name="tinternet">USO DE INTERNET</string>
+    <string name="chcasa">CASA</string>
+    <string name="chescuela">ESCUELA</string>
+    <string name="chtrabajo">TRABAJO</string>
+</resources>
